@@ -14,6 +14,10 @@ Collection of scripts that implement preprocessing, dimensionality reduction, mo
 
 
 CICIDS flow CSVs: expected under `CICIDS2017\MachineLearningCVE\*.csv` ([CICIDS2017 Dataset](https://www.unb.ca/cic/datasets/ids-2017.html))
+
 UNSW flow CSVs: `UNSW-NB15\OneDrive_2024-02-16\CSV Files\...` ([UNSW-NB15 Dataset](https://research.unsw.edu.au/projects/unsw-nb15-dataset))
+
 Packet CSVs: `Payload_data_UNSW.csv` and `Payload_data_CICIDS2017.csv` ([Payload-Byte Repository](https://github.com/Yasir-ali-farrukh/Payload-Byte))
+
+
 
